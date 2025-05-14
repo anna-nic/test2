@@ -1,1 +1,1 @@
-Test repositry with RBMK notebook to clone into jupyter lab
+Test repositry with RBMK notebook
